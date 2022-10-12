@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CinZoyagi {
+public class CinZodyagi {
     public static void main(String[] args) {
         int year;
         String cinZodyagi = " ";
